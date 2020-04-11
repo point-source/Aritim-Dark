@@ -1207,13 +1207,13 @@ StScrollBar {
     padding: 0 4px;
     color: #d3dae3; }
   .search-entry:hover, .search-entry:focus {
-    color: #141a21;
-    caret-color: #141a21;
-    background-color: #2b5278;
+    color: #d3dae3;
+    caret-color: #d3dae3;
+    background-color: #1F2C39;
     selection-background-color: #141a21;
     selected-color: #2b5278; }
     .search-entry:hover .search-entry-icon, .search-entry:focus .search-entry-icon {
-      color: #141a21; }
+      color: #d3dae3; }
 
 #searchResultsBin {
   max-width: 1000px; }
